@@ -2,11 +2,15 @@
 
 ## Internship Project
 
-This repository contains my work for a Data Science internship focused on telecom customer churn analysis and prediction using Python and machine learning.
+This repository contains my work for a Data Science internship focused on telecom customer churn analysis and prediction using Python and machine learning.\
+
+### Project Note
+
+This is a **theoretical and planning-based internship project**. The work focuses on designing data science strategies, preprocessing plans, EDA plans, machine learning plans, execution strategies, and performance-tracking approaches. It is not a fully deployed or production-ready telecom system.
 
 ## Project Objective
 
-The main objective is to study telecom customer data, understand factors related to customer churn, preprocess the data, perform exploratory analysis, and develop a machine learning workflow for churn prediction.
+The main objective is to study telecom customer data, understand factors related to customer churn, preprocess the data, perform exploratory analysis, plan machine learning models, and develop a structured execution and monitoring workflow.
 
 ## Tools & Technologies
 
@@ -28,7 +32,7 @@ The main objective is to study telecom customer data, understand factors related
 | Week 2 | Data Acquisition and Preprocessing Strategy | Completed |
 | Week 3 | Exploratory Data Analysis and Visualization Design | Completed |
 | Week 4 | Machine Learning Model Planning and Algorithm Selection | Completed |
-| Week 5 | Upcoming | Not Started |
+| Week 5 | Project Execution Strategy and Performance Tracking | Completed |
 | Week 6 | Upcoming | Not Started |
 
 ## Repository Structure
@@ -47,5 +51,8 @@ telecom-customer-churn-data-science/
 │
 ├── Week-4/
 │   └── Week 4 Machine Learning Model Planning and Algorithm Selection
+│
+├── Week-5/
+│   └── Week 5 Project Execution Strategy and Performance Tracking
 │
 └── README.md
